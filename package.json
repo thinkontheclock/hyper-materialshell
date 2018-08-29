@@ -1,5 +1,5 @@
 {
-  "name": "hyper-materialshell",
+  "name": "hyper-materialshell-ly",
   "version": "1.6.1",
   "description": "A material design theme for Hyper based on materialshell.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carloscuesta/hyper-materialshell.git"
+    "url": "git+https://github.com/thinkontheclock/hyper-materialshell.git"
   },
   "keywords": [
     "hyper",
@@ -24,9 +24,9 @@
   "author": "Carlos Cuesta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carloscuesta/hyper-materialshell/issues"
+    "url": "https://github.com/thinkontheclock/hyper-materialshell/issues"
   },
-  "homepage": "https://github.com/carloscuesta/hyper-materialshell#readme",
+  "homepage": "https://github.com/thinkontheclock/hyper-materialshell#readme",
   "devDependencies": {
     "codecov": "^3.0.0",
     "jest": "^21.2.1",
